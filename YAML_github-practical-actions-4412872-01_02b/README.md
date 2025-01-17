@@ -1,6 +1,6 @@
 # My Note 2025/01/17
 
-01_02b_XML parse: https://raybo.org/slides_practicalactions/site/slides/01_03/index.html#yaml-file
+01_02b_XML parse (--also Course slides): https://raybo.org/slides_practicalactions/site/slides/01_03/index.html#yaml-file
 
 Apple RSS feed: https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
 
