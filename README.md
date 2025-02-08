@@ -12,3 +12,9 @@ https://raybo.org/slides_githubcopilot/site/slides/01_01/index.html
 
 04 slides: Github Search  
 https://raybo.org/slides_githubsearch/site/slides/01_01/index.html  
+
+  ---
+  
+Apple RSS feed:  
+https://help.apple.com/itc/podcasts_connect/#/itcbaf351599  
+
