@@ -1,12 +1,10 @@
-# My Note 2025/01/17
+# My Note: 2025/01/17
 
-01_02b_XML parse (--also Course slides): https://raybo.org/slides_practicalactions/site/slides/01_03/index.html#yaml-file
-
-Apple RSS feed: https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
+Apple RSS feed: https://help.apple.com/itc/podcasts_connect/#/itcbaf351599  
 
 ---
 
-# Practical GitHub Actions
+# Linkedin Note: Practical GitHub Actions
 This is the repository for the LinkedIn Learning course Practical GitHub Actions. The full course is available from [LinkedIn Learning][lil-course-url].
 
 For developer professionals, solving problems is a vital part of the job—particularly solving problems that keep coming up. GitHub Actions will let you automate your repetitive problems away, and in this course—created in partnership with GitHub—Ray Villalobos shows you how to set them up to tackle real-world projects. Ray starts with the basics of Actions, going over what you can do with them and how they work. He then shows you the steps necessary to publish a marketplace action, including creating a workflow, a generator repo Dockerfile, entry point, and action.yml file. Finally, Ray takes you through testing and releasing your GitHub Action.
